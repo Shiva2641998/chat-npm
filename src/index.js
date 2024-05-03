@@ -1,1 +1,4 @@
-export * from './components/Requirements';
+import Chatbot from "./components/Chatbot"
+
+
+export { Chatbot }
